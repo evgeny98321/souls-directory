@@ -1,0 +1,10 @@
+{
+  "name": "souls-directory",
+  "version": "0.1.0",
+  "description": "\ud83e\udde0 Directory of SOUL.md personality files for OpenClaw agents",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
