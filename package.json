@@ -1,6 +1,6 @@
 {
   "name": "souls-directory",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "\ud83e\udde0 Directory of SOUL.md personality files for OpenClaw agents",
   "main": "src/index.ts",
   "scripts": {
